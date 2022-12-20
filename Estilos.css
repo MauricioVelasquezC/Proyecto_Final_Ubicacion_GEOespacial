@@ -1,0 +1,19 @@
+#map{
+    border: 3px rgb(114, 112, 112) solid;
+    font-size: 50px;
+    width: 70%;
+    height: 80%;
+    margin: 5 auto;
+    text-align: center;
+}
+
+#form{ 
+    font-family:Arial;
+    
+    font-style:normal;
+    font-size: 15px;
+    width: 70%;
+    height: 80%;
+    margin: 1 auto;
+    text-align: center;
+}
